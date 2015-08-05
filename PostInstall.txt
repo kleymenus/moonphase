@@ -1,6 +1,0 @@
-
-For more information on moonphase, see http://moonphase.rubyforge.org or see http://github.com/chaserx/moonphase/tree/master
-
-
-
-
